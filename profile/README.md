@@ -1,6 +1,10 @@
 # Upperblue
 
-Upperblue brings Icelandic environmental and infrastructure data together in maps and an API. Explore weather, earthquakes, roads, and coastal conditions across Iceland at [upperblue.com](https://upperblue.com).
+*Ísland á einu korti.*
+
+Upperblue brings Icelandic environmental and infrastructure data together in maps and an API. Explore weather, earthquakes, roads, and coastal conditions across Iceland at [upperblue.com](https://www.upperblue.com/).
+
+Find weather and conditions anywhere in Iceland with [Upperblue Fast](https://fast.upperblue.com/en/).
 
 ## Try the API in Python
 
@@ -8,4 +12,4 @@ Where did Iceland shake on a given day? When is high tide in Reykjavík? The [Up
 
 [![Map of Iceland showing 32 earthquakes and 33 volcanic systems on 17 November 2026.](https://raw.githubusercontent.com/Upperblue-ehf/upperblue-api-demo/main/images/seismic-day.png)](https://github.com/Upperblue-ehf/upperblue-api-demo#run-both-demos)
 
-[Run the demos](https://github.com/Upperblue-ehf/upperblue-api-demo#run-both-demos) · [Read the API guide](https://upperblue.com/en/api)
+[Run the demos](https://github.com/Upperblue-ehf/upperblue-api-demo#run-both-demos) · [Read the API guide](https://www.upperblue.com/en/api)
